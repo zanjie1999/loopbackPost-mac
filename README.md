@@ -1,4 +1,7 @@
-# 工作咩闹钟 · macOS 音频推送
+# 工作咩闹钟 · macOS 音频推送上位机
+
+<img width="121" height="129" alt="image" src="https://github.com/user-attachments/assets/0f0724f5-0e67-4cdc-b8fd-e4b8fef128f7" />
+
 
 把 Mac 正在播放的声音实时推给局域网里的「工作咩闹钟」音箱。系统要求 **macOS 14.4 及以上**。
 
@@ -13,9 +16,14 @@
 
 ## 首次运行
 
+<img width="451" height="274" alt="image" src="https://github.com/user-attachments/assets/ffd24d2e-ba7b-41d8-a34c-1c24dbcc2808" />
+
 1. 弹出「想要录制系统音频」→ 点**允许**（不给权限会一直推送静音）。
 2. 填音箱地址，例如 `192.168.1.147:8080/aplay`，会自动记住上次填的。
 3. 菜单栏出现 `⌁` 图标，开始推送；菜单里有音量、重连、查看日志、退出。
+
+<img width="304" height="214" alt="image" src="https://github.com/user-attachments/assets/a2538e47-4234-43f7-a39b-1bbc58bc1fe7" />
+
 
 想换地址：先「退出」，再重新打开。
 
