@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# 构建产物（由 build.sh 生成）
+loopbackPost.app/
+loopbackPost
+*.o
+*.dSYM/
+
+# 本地日志与临时文件
+*.log
+*.tmp
+
+# 编辑器
+.vscode/
