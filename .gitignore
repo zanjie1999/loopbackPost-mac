@@ -5,6 +5,7 @@
 # 构建产物（由 build.sh 生成）
 loopbackPost.app/
 loopbackPost
+loopbackPost.zip
 *.o
 *.dSYM/
 
